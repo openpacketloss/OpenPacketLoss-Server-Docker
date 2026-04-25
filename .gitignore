@@ -1,0 +1,8 @@
+# Deploy artifacts
+.deploy_config
+*.tar
+openpacketloss-remote.tar
+
+# OS files
+.DS_Store
+Thumbs.db
